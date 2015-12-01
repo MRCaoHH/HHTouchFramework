@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "818967581C0C52E4001D9640"
-               BuildableName = "HHTouchFramework.app"
-               BlueprintName = "HHTouchFramework"
+               BlueprintIdentifier = "8189677E1C0C5D8E001D9640"
+               BuildableName = "HHFramework.framework"
+               BlueprintName = "HHFramework"
                ReferencedContainer = "container:HHTouchFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "818967581C0C52E4001D9640"
-            BuildableName = "HHTouchFramework.app"
-            BlueprintName = "HHTouchFramework"
-            ReferencedContainer = "container:HHTouchFramework.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "818967581C0C52E4001D9640"
-            BuildableName = "HHTouchFramework.app"
-            BlueprintName = "HHTouchFramework"
+            BlueprintIdentifier = "8189677E1C0C5D8E001D9640"
+            BuildableName = "HHFramework.framework"
+            BlueprintName = "HHFramework"
             ReferencedContainer = "container:HHTouchFramework.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "818967581C0C52E4001D9640"
-            BuildableName = "HHTouchFramework.app"
-            BlueprintName = "HHTouchFramework"
+            BlueprintIdentifier = "8189677E1C0C5D8E001D9640"
+            BuildableName = "HHFramework.framework"
+            BlueprintName = "HHFramework"
             ReferencedContainer = "container:HHTouchFramework.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

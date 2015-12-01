@@ -4,25 +4,35 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HHFramework.xcscheme</key>
+		<key>MBProgressHUD.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>HHTouchFramework.xcscheme</key>
+		<key>Pods.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SSZipArchive.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>818967581C0C52E4001D9640</key>
+		<key>0E6890A8A05B194F72022CCB7B18C3A3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8189677E1C0C5D8E001D9640</key>
+		<key>98D7278CA1E465838A8892EC53C148AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE2F1D7B9D9FCEA148517E4657B243F4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,0 +1,13 @@
+PODS:
+  - MBProgressHUD (0.9.1)
+  - SSZipArchive (1.0.1)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.9.1)
+  - SSZipArchive (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  SSZipArchive: 5f30a0af2cb3d48c0ff83b1e18029f7041ac3c38
+
+COCOAPODS: 0.39.0
